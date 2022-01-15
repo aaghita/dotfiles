@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aa.ghita@gmail.com
+	name = Ghita Aaddaj
